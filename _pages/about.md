@@ -7,6 +7,8 @@ redirect_from:
   - /about.html
 ---
 
-My research focuses on the early identification of and intervention for students with or at risk for reading disabilities. I am particularly interested in examining the long-term effect of reading instruction and the factors associated with the persistence and fadeout of instructional effects using meta-analytic approaches. I also investigate how assessment and measurement approaches (e.g., classification accuracy, reader profiles, and eye-tracking-based measures) inform educational decision-making. 
+I am a doctoral student in the [Department of Educational Psychology](https://epsy.tamu.edu) at Texas A&M University, working under the supervision of [Dr. Florina Erbeli](https://scholar.google.com/citations?hl=en&user=jZHI5J0AAAAJ&view_op=list_works&sortby=pubdate).
+
+My research focuses on improving educational decision-making for students with or at risk for reading disabilities. Specifically, I examine the long-term effects of reading instruction, the representativeness and generalizability of reading-disability research, and the use of innovative assessment approaches to improve identification and intervention. Using methods such as meta-analysis, systematic review, and quantitative modeling, I seek to generate evidence that supports more effective and equitable educational practices for struggling readers.
 
 You can find my CV [here](/assets/CV_Ying%20Xu_06192026.pdf).
