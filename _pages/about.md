@@ -1,11 +1,13 @@
 ---
 permalink: /
-title: "Welcome to my website!"
+title: ""
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
+
+Welcome to my website!
 
 I am a doctoral student in the [Department of Educational Psychology](https://epsy.tamu.edu) at Texas A&M University, working under the supervision of [Dr. Florina Erbeli](https://scholar.google.com/citations?hl=en&user=jZHI5J0AAAAJ&view_op=list_works&sortby=pubdate).
 
