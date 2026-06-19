@@ -13,8 +13,9 @@ title                    : "Ying Xu (徐滢)"
 title_separator          : "-"
 name                     : &name "Ying Xu"
 description              : &description "Ph.D. student at Texas A&M University"   # Update this with a general description of your site, this is the default if not overridden by a page
-url                      : https://yingxu-yx.github.io # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
-                                                           # or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
+url                      : https://yingxu-yx.github.io 
+# The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
+# or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "yingxu-yx/yingxu-yx.github.io"
 
@@ -227,12 +228,16 @@ collections:
   publications:
     output: true
     permalink: /:collection/:path/
-  portfolio:
+  # portfolio:
+  #   output: true
+  #   permalink: /:collection/:path/
+  # talks:
+  #   output: true
+  #   permalink: /:collection/:path/
+  awards:
     output: true
     permalink: /:collection/:path/
-  talks:
-    output: true
-    permalink: /:collection/:path/
+    
 
 
 # These settings control how pages and collections are included in the site
@@ -251,12 +256,12 @@ defaults:
   #     related: true
 
   # _pages
-  # - scope:
-  #     path: ""
-  #     type: pages
-  #   values:
-  #     layout: single
-  #     author_profile: true
+  - scope:
+      path: ""
+      type: pages
+    values:
+      layout: single
+      author_profile: true
 
   # _teaching
   - scope:
