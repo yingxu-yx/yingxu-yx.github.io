@@ -7,7 +7,7 @@ author_profile: true
 
 {% include base_path %}
 
-# Selected Awards, Honors, and Research Support
+## Selected Awards, Honors, and Research Support
 
 **2026**
 : **Council for Exceptional Children, Division for Research (CEC-DR)**  

@@ -7,10 +7,10 @@ author_profile: true
 
 {% include base_path %}
 
-# Peer-Reviewed Publications
+## Peer-Reviewed Publications
 You can also find my articles on my [Google Scholar profile](https://scholar.google.com/citations?user=gOc1UnsAAAAJ&hl=en).
 
-## Published
+### Published
 * Erbeli, F., Rice, M., **Xu, Y.**, & Savage, R. (2026). Effect size thresholds in early literacy: Defining benchmarks for phonemic awareness research. *Early Education and Development, 37*(3), 604–621.[[DOI](https://doi.org/10.1080/10409289.2025.2581998)]
 
 <!-- **Abstract**: Effect size (ES) helps assess intervention effectiveness, often interpreted using Cohen’s thresholds for small (0.20), medium (0.50), and large effects (0.80). However, these thresholds must be contextualized. This study derived new ES thresholds in early literacy research, focusing on phonemic awareness (PA). Data from three recent meta-analyses on the effects of PA instruction and intervention on PA and reading outcomes in pre-K through Grade 1 children were used. We extracted Hedges’ g data and calculated an ES distribution, deriving thresholds at the 25th, 50th, and 75th percentiles (small, medium, and large effects). Additional thresholds were derived for various subgroups (risk status, use of letters, outcome measures, alignment between PA skills taught and measured, group size, interventionist). Research Findings: From 199 ESs on PA outcomes and 119 ESs on reading outcomes, the ES thresholds were at 0.262, 0.507, 0.817, and −0.014, 0.361, 0.670 for small, medium, and large effects, respectively, with no evidence of publication bias. ES distributions across subgroups were similar to overall results, though differences were found across PA outcomes measuring decoding-proximal vs. decoding-distal PA skills and interventionists. Practice or Policy: Cohen’s benchmarks are generally representative of current PA research on PA outcomes but are overestimated for reading outcomes by around 0.2 standard deviations. -->
@@ -29,7 +29,7 @@ You can also find my articles on my [Google Scholar profile](https://scholar.goo
 
 <!-- **Abstract**:  -->
 
-## Under Review
+### Under Review
 * **Xu, Y.**, & Erbeli, F. (revise & resubmit). Long-term effects of reading instruction on reading outcomes: A meta-analysis. 
 
 * Stalega, M. V., Erbeli, F., **Xu, Y.**, & Kearns, D. M. (revise & resubmit). Optimizing time in isolated phonemic awareness instruction: A meta-analysis of cumulative dosage for improved reading outcomes.
